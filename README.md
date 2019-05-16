@@ -14,7 +14,7 @@ Generate AWS Signature V4 by using IAM credential (Access key ID and Secret acce
 
 # Testing your url
 
-You can test it with any Node.js mqtt library.
+You can test it with mqtt library, below example uses node.js mqtt library.
 Below example copied from [https://github.com/pedrohbtp/aws_signv4_mqtt](https://github.com/pedrohbtp/aws_signv4_mqtt)
 
 ```javascript
