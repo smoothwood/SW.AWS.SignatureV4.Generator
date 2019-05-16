@@ -5,8 +5,10 @@
     <AssemblyName>SW.AWS.SignatureV4.Generator</AssemblyName>
     <Description>Generate AWS Signature V4 by using IAM credential (Access key ID and Secret access key). It's based on .NETStandard 2.0</Description>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.1.0.0</FileVersion>
-    <Version>1.0.1</Version>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.2</Version>
+    <Authors>ycm</Authors>
+    <RepositoryUrl>https://github.com/smoothwood/SW.AWS.SignatureV4.Generator</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
