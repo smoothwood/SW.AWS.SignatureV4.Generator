@@ -1,4 +1,4 @@
-Generate AWS Signature V4 by using IAM credential (Access key ID and Secret access key).
+Generate AWS Signature V4 signed url by using IAM credential (Access key ID and Secret access key).
 # Install
 ```Install-Package SW.AWS.SignatureV4.Generator -Version 1.0.2```
 
